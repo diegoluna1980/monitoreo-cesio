@@ -1,0 +1,504 @@
+
+MJD    60572 00:00:09
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.3 C
+
+
+
+MJD    60572 01:00:09
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.4 C
+
+
+
+MJD    60572 02:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.5 C
+
+
+
+MJD    60572 03:00:09
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.6 C
+
+
+
+MJD    60572 04:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.7 C
+
+
+
+MJD    60572 05:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 06:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.56 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 07:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 08:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.6 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.9 C
+
+
+
+MJD    60572 09:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.2 V
++5V  supply:        5.4 V    Thermometer:       42.9 C
+
+
+
+MJD    60572 10:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 11:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 12:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.4 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.2 V
++5V  supply:        5.4 V    Thermometer:       43.1 C
+
+
+
+MJD    60572 13:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.1 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       43.0 C
+
+
+
+MJD    60572 14:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.3 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.2 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 15:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.6 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.7 C
+
+
+
+MJD    60572 16:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.1 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.7 C
+
+
+
+MJD    60572 17:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.02 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.6 C
+
+
+
+MJD    60572 18:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.1 V    CBT Oven Err:      0.02 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.2 V
++5V  supply:        5.4 V    Thermometer:       42.7 C
+
+
+
+MJD    60572 19:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.55 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.6 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.1 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.8 C
+
+
+
+MJD    60572 20:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.53 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.166 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.2 V
++5V  supply:        5.4 V    Thermometer:       42.9 C
+
+
+
+MJD    60572 21:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.0 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.3 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       43.0 C
+
+
+
+MJD    60572 22:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.6 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.1 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.9 C
+
+
+
+MJD    60572 23:00:08
+CBT ID: US42391223(S)
+Status summary: Operating normally, Steered
+Power source: AC
+Log status: 121 entries
+
+Freq Offset:        209e-15  Osc. control:    -21.54 %
+RF amplitude 1:    19.1 %    RF amplitude 2:    17.5 %
+Zeeman Freq:      39949 Hz   C-field curr:    12.167 mA
+E-multiplier:      1224 V    Signal Gain:       14.4 %
+
+CBT Oven:           6.2 V    CBT Oven Err:      0.00 C
+Osc. Oven:         -9.0 V    Ion Pump:           0.2 uA
+HW Ionizer:         1.0 V    Mass spec:         10.4 V
+SAW Tuning:         0.0 V    DRO Tuning:         3.9 V
+87MHz PLL:          1.4 V    uP Clock PLL:       2.0 V
++12V supply:       12.2 V    -12V supply:      -12.3 V
++5V  supply:        5.4 V    Thermometer:       42.9 C
+
+
