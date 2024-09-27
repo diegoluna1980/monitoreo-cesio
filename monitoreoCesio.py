@@ -9,15 +9,14 @@ Created on Wed Sep 18 09:22:50 2024
 import pandas as pd
 import matplotlib.pyplot as plt
 
-MJD = '60573'
+MJD = '60575'
 
 # Leer el archivo de texto
 with open('./logCs/' + MJD + '_cs1.txt', 'r') as file:
     lines = file.readlines()
 
 # Inicializar listas para almacenar los datos
-mjd_list = []
-time_list = []
+FMJD_list = []
 
 Freq_Offset_list = []
 Osc_control_list = []
@@ -64,10 +63,9 @@ TD13_list = []
 for i, line in enumerate(lines):
     # Buscar la línea que contiene MJD
     if line.startswith('MJD'):
-        mjd_value = int(line[8:13])
-        mjd_list.append(mjd_value)
-        time_value = line[-9:-1]
-        time_list.append(time_value)
+        mjd_value = int(line[6:13])
+        hour_value = int(line[-9:-7])
+        FMJD_list.append(mjd_value + hour_value/24)
     
     if line.startswith('Freq Offset'):
         Freq_Offset_value = float(line[18:28])
@@ -89,49 +87,49 @@ for i, line in enumerate(lines):
 
     if line.startswith('E-multiplier'):
         E_multiplier_value = int(line[17:23])
-        Signal_Gain_value = "{:.1f}".format(float(line[46:52]))
+        Signal_Gain_value = float(line[46:52])
         E_multiplier_list.append(E_multiplier_value)
         Signal_Gain_list.append(Signal_Gain_value)
 
     if line.startswith('CBT Oven'):
-        CBT_Oven_value = "{:.1f}".format(float(line[17:23]))
-        CBT_Oven_Err_value = "{:.1f}".format(float(line[46:52]))
+        CBT_Oven_value = float(line[17:23])
+        CBT_Oven_Err_value = float(line[46:52])
         CBT_Oven_list.append(CBT_Oven_value)
         CBT_Oven_Err_list.append(CBT_Oven_Err_value)
 
     if line.startswith('Osc. Oven'):
-        Osc_Oven_value = line[17:23]
-        Ion_Pump_value = line[46:52]
+        Osc_Oven_value = float(line[17:23])
+        Ion_Pump_value = float(line[46:52])
         Osc_Oven_list.append(Osc_Oven_value)
         Ion_Pump_list.append(Ion_Pump_value)
 
     if line.startswith('HW Ionizer'):
-        HW_Ionizer_value = line[17:23]
-        Mass_spec_value = line[46:52]
+        HW_Ionizer_value = float(line[17:23])
+        Mass_spec_value = float(line[46:52])
         HW_Ionizer_list.append(HW_Ionizer_value)
         Mass_spec_list.append(Mass_spec_value)
 
     if line.startswith('SAW Tuning'):
-        SAW_Tuning_value = line[17:23]
-        DRO_Tuning_value = line[46:52]
+        SAW_Tuning_value = float(line[17:23])
+        DRO_Tuning_value = float(line[46:52])
         SAW_Tuning_list.append(SAW_Tuning_value)
         DRO_Tuning_list.append(DRO_Tuning_value)
 
     if line.startswith('87MHz PLL'):
-        MHz_PLL_value = line[17:23]
-        uP_Clock_PLL_value = line[46:52]
+        MHz_PLL_value = float(line[17:23])
+        uP_Clock_PLL_value = float(line[46:52])
         MHz_PLL_list.append(MHz_PLL_value)
         uP_Clock_PLL_list.append(uP_Clock_PLL_value)
 
     if line.startswith('+12V supply'):
-        plus_12_V_value = line[17:23]
-        minus_12_V_value = line[46:52]
+        plus_12_V_value = float(line[17:23])
+        minus_12_V_value = float(line[46:52])
         plus_12_V_list.append(plus_12_V_value)
         minus_12_V_list.append(minus_12_V_value)
 
     if line.startswith('+5V  supply'):
-        plus_5_V_value = line[17:23]
-        thermometer_value =  "{:.1f}".format(float(line[46:52]))
+        plus_5_V_value = float(line[17:23])
+        thermometer_value =  float(line[46:52])
         plus_5_V_list.append(plus_5_V_value)
         thermometer_list.append(thermometer_value)
 
@@ -163,13 +161,12 @@ datos12 = file12.read().split("\n")
 datos13 = file13.read().split("\n")
 
 for j in range(len(datos12)-1):
-    TD12_list.append(datos12[j][-7:])
-    TD13_list.append(datos13[j][-7:])
+    TD12_list.append(float(datos12[j][-7:]))
+    TD13_list.append(float(datos13[j][-7:]))
 
 # Crear un DataFrame con los valores extraídos
 df = pd.DataFrame({
-    'MJD': mjd_list,
-    'Time': time_list,
+    'FMJD': FMJD_list,
     'Freq Offset': Freq_Offset_list,
     'Osc. control (%)': Osc_control_list,
     'RF amplitude 1 (%)': rf_amp1_list,
@@ -199,8 +196,5 @@ df = pd.DataFrame({
     'TD 1-3 (ns)': TD13_list,
 })
 
-df.plot(x='Thermometer (C)', y='Temperatura amb (C)', kind='line')  # You can choose 'line', 'bar', etc.
+df.plot(x='FMJD', y='+5V  Supply (V)', kind='line')  # You can choose 'line', 'bar', etc.
 plt.show()
-#plt.xlabel('Column1')
-#plt.ylabel('Column2')
-#plt.title('Plot of Column1 vs Column2')
